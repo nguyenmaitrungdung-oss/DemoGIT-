@@ -1,0 +1,28 @@
+Command line:
+   tb_LED_SANG_DICH_TTR_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  53016
+
+Fri May 22 01:32:32 2026
+
+
+ Elaboration Time: 0.05 sec
+
+ Current Memory Usage: 198.582 Meg
+
+ Total Signals          : 16
+ Total Nets             : 23
+ Total Signal Drivers   : 8
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 13
+ Total Traceable Variables  : 22
+ Total Scalar Nets and Variables : 116
+
+ Total Simulation Time: 0.12 sec
+
+ Current Memory Usage: 276.181 Meg
+
+Fri May 22 01:43:04 2026
+

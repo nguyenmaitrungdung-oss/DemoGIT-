@@ -1,0 +1,2 @@
+verilog work "../sipo_shift_load.v"
+verilog work "../tb_sipo_shift_load.v"

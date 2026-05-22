@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/F8_code/VERILOG/LED_DICH/LED_TSP/tb_LED_SANG_DICH_TSP_isim_beh.exe" -prj "/home/ise/F8_code/VERILOG/LED_DICH/LED_TSP/tb_LED_SANG_DICH_TSP_beh.prj" "work.tb_LED_SANG_DICH_TSP" "work.glbl" 

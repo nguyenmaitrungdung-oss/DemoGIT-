@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/F8_code/VERILOG/HOMEWORK_C6/C6/tb_updown_counter_hw1_isim_beh.exe" -prj "/home/ise/F8_code/VERILOG/HOMEWORK_C6/C6/tb_updown_counter_hw1_beh.prj" "work.tb_updown_counter_hw1" "work.glbl" 

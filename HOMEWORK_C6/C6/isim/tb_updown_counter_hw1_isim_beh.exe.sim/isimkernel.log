@@ -1,0 +1,10 @@
+Command line:
+   tb_updown_counter_hw1_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49875
+
+Thu May 21 12:55:29 2026
+
+
+ Elaboration Time: 0.14 sec

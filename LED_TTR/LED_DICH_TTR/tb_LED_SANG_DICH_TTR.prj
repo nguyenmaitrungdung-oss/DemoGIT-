@@ -1,0 +1,2 @@
+verilog work "../LED_DICH_TTR.v"
+verilog work "../test.v"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/tb_sipo_shift_load_isim_beh.exe" -prj "/home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/tb_sipo_shift_load_beh.prj" "work.tb_sipo_shift_load" "work.glbl" 

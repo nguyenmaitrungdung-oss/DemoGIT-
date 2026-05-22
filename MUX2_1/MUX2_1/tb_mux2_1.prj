@@ -1,0 +1,2 @@
+verilog work "../mux2_1.v"
+verilog work "../test.v"

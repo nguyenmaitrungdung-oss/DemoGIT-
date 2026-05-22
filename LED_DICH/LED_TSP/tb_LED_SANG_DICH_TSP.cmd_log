@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/ise/F8_code/VERILOG/LED_DICH/LED_TSP/tb_LED_SANG_DICH_TSP.xst" -ofn "/home/ise/F8_code/VERILOG/LED_DICH/LED_TSP/tb_LED_SANG_DICH_TSP.syr" 

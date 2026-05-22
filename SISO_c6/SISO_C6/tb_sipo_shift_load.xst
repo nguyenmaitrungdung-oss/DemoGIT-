@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/xst"
+elaborate
+-ifn tb_sipo_shift_load.prj
+-ifmt mixed

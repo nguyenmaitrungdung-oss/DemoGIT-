@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/F8_code/VERILOG/LED_TTR/LED_DICH_TTR/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/F8_code/VERILOG/LED_TTR/LED_DICH_TTR/xst"
+elaborate
+-ifn LED_SANG_DICH_TTR.prj
+-ifmt mixed

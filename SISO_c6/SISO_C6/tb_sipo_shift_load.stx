@@ -1,0 +1,38 @@
+Release 14.7 - xst P.20131013 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> 
+Parameter TMPDIR set to /home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> 
+Parameter xsthdpdir set to /home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> 
+WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling verilog file "../sipo_shift_load.v" in library work
+Compiling verilog file "../tb_sipo_shift_load.v" in library work
+Module <sipo_shift_load> compiled
+Module <tb_sipo_shift_load> compiled
+ERROR:HDLCompilers:27 - "../tb_sipo_shift_load.v" line 88 Illegal redeclaration of 'tb_sipo_shift_load'
+Module <tb_sipo_shift_load> compiled
+Analysis of file <"tb_sipo_shift_load.prj"> failed.
+--> 
+
+
+Total memory usage is 566008 kilobytes
+
+Number of errors   :    1 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

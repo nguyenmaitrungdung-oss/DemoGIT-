@@ -1,0 +1,22 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o /home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/tb_sipo_shift_load_isim_beh.exe -prj /home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/tb_sipo_shift_load_beh.prj work.tb_sipo_shift_load work.glbl 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Analyzing Verilog file "/home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/../sipo_shift_load.v" into library work
+Analyzing Verilog file "/home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/../tb_sipo_shift_load.v" into library work
+WARNING:HDLCompiler:687 - "/home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/../tb_sipo_shift_load.v" Line 88: Illegal redeclaration of module <tb_sipo_shift_load>.
+Analyzing Verilog file "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 94924 KB
+Fuse CPU Usage: 2140 ms
+Compiling module sipo_shift_load
+Compiling module tb_sipo_shift_load
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 3 Verilog Units
+Built simulation executable /home/ise/F8_code/VERILOG/SISO_c6/SISO_C6/tb_sipo_shift_load_isim_beh.exe
+Fuse Memory Usage: 98056 KB
+Fuse CPU Usage: 2200 ms
+GCC CPU Usage: 510 ms

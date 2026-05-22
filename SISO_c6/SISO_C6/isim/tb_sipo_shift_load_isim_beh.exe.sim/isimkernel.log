@@ -1,0 +1,10 @@
+Command line:
+   tb_sipo_shift_load_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49858
+
+Thu May 21 13:19:28 2026
+
+
+ Elaboration Time: 0.09 sec

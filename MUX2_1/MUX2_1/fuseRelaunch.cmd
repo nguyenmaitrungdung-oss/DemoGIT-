@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/F8_code/VERILOG/MUX2_1/MUX2_1/tb_mux2_1_isim_beh.exe" -prj "/home/ise/F8_code/VERILOG/MUX2_1/MUX2_1/tb_mux2_1_beh.prj" "work.tb_mux2_1" "work.glbl" 

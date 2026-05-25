@@ -1,0 +1,10 @@
+Command line:
+   tb_LED_CENTER_TO_2SIDE_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  46473
+
+Fri May 22 10:52:43 2026
+
+
+ Elaboration Time: 0.06 sec

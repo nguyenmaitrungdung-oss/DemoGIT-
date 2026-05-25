@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "/home/ise/F8_code/VERILOG/T_FF/TFF/TFF.xst" -ofn "/home/ise/F8_code/VERILOG/T_FF/TFF/TFF.syr" 
+xst -intstyle ise -ifn "/home/ise/F8_code/VERILOG/T_FF/TFF/TFF.xst" -ofn "/home/ise/F8_code/VERILOG/T_FF/TFF/TFF.syr" 

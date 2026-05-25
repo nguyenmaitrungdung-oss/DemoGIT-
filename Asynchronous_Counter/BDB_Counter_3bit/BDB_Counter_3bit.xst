@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/F8_code/VERILOG/Asynchronous_Counter/BDB_Counter_3bit/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/F8_code/VERILOG/Asynchronous_Counter/BDB_Counter_3bit/xst"
+elaborate
+-ifn BDB_Counter_3bit.prj
+-ifmt mixed

@@ -1,0 +1,5 @@
+set -tmpdir "/home/ise/F8_code/VERILOG/HOMEWORK_C5/LED_C5/xst/projnav.tmp"
+set -xsthdpdir "/home/ise/F8_code/VERILOG/HOMEWORK_C5/LED_C5/xst"
+elaborate
+-ifn LED_HOMEWORK.prj
+-ifmt mixed

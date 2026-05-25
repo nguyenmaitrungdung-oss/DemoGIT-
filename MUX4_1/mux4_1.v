@@ -1,20 +1,18 @@
-module mux4_1(
-    input wire [1:0] sel,
-    input wire a,
-    input wire b,
-    input wire c,
-    input wire d,
-    output reg y
+module Mux4_1(
+   input [3:0] in,
+    input [1:0] Sel,
+    output reg f
 );
 
 always @(*) begin
-    case (sel)
-        2'b00: y = a;
-        2'b01: y = b;
-        2'b10: y = c;
-        2'b11: y = d;
-        default: y = 1'b0;
+    case (Sel)
+        2'b00: f = in[0];
+        2'b01: f = in[1];
+        2'b10: f = in[2];
+        2'b11: f = in[3];
+        default: f = 1'b0;
     endcase
 end
+
 
 endmodule

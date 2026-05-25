@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/F8_code/VERILOG/HOMEWORK_C5_4/LED_C5_4/tb_LED_2SIDE_TO_CENTER_isim_beh.exe" -prj "/home/ise/F8_code/VERILOG/HOMEWORK_C5_4/LED_C5_4/tb_LED_2SIDE_TO_CENTER_beh.prj" "work.tb_LED_2SIDE_TO_CENTER" "work.glbl" 

@@ -1,0 +1,90 @@
+ISim log file
+Running: /home/ise/F8_code/VERILOG/HOMEWORK_C5/LED_C5/test_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/ise/F8_code/VERILOG/HOMEWORK_C5/LED_C5/test_isim_beh.wdb 
+ISim P.20131013 (signature 0xfbc00daa)
+----------------------------------------------------------------------
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue to function, but you no longer qualify for Xilinx software updates or new releases.
+
+
+----------------------------------------------------------------------
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+time = 171000 | state =  0 | led = 00000000
+time = 251000 | state =  1 | led = 10000000
+time = 331000 | state =  2 | led = 11000000
+time = 411000 | state =  3 | led = 11100000
+time = 491000 | state =  4 | led = 11110000
+time = 571000 | state =  5 | led = 11111000
+time = 651000 | state =  6 | led = 11111100
+time = 731000 | state =  7 | led = 11111110
+time = 811000 | state =  8 | led = 11111111
+time = 891000 | state =  9 | led = 01111111
+time = 971000 | state = 10 | led = 00111111
+# run 5.00us
+time = 1051000 | state = 11 | led = 00011111
+time = 1131000 | state = 12 | led = 00001111
+time = 1211000 | state = 13 | led = 00000111
+time = 1291000 | state = 14 | led = 00000011
+time = 1371000 | state = 15 | led = 00000001
+time = 1451000 | state =  0 | led = 00000000
+time = 1531000 | state =  1 | led = 10000000
+time = 1611000 | state =  2 | led = 11000000
+time = 1691000 | state =  3 | led = 11100000
+time = 1771000 | state =  4 | led = 11110000
+time = 1851000 | state =  5 | led = 11111000
+time = 1931000 | state =  6 | led = 11111100
+time = 2011000 | state =  7 | led = 11111110
+time = 2091000 | state =  8 | led = 11111111
+time = 2171000 | state =  9 | led = 01111111
+time = 2251000 | state = 10 | led = 00111111
+time = 2331000 | state = 11 | led = 00011111
+time = 2411000 | state = 12 | led = 00001111
+time = 2491000 | state = 13 | led = 00000111
+time = 2571000 | state = 14 | led = 00000011
+time = 2651000 | state = 15 | led = 00000001
+time = 2731000 | state =  0 | led = 00000000
+time = 2811000 | state =  1 | led = 10000000
+time = 2891000 | state =  2 | led = 11000000
+time = 2971000 | state =  3 | led = 11100000
+time = 3051000 | state =  4 | led = 11110000
+time = 3131000 | state =  5 | led = 11111000
+time = 3211000 | state =  6 | led = 11111100
+time = 3291000 | state =  7 | led = 11111110
+time = 3371000 | state =  8 | led = 11111111
+time = 3451000 | state =  9 | led = 01111111
+time = 3531000 | state = 10 | led = 00111111
+time = 3611000 | state = 11 | led = 00011111
+time = 3691000 | state = 12 | led = 00001111
+time = 3771000 | state = 13 | led = 00000111
+time = 3851000 | state = 14 | led = 00000011
+time = 3931000 | state = 15 | led = 00000001
+time = 4011000 | state =  0 | led = 00000000
+time = 4091000 | state =  1 | led = 10000000
+time = 4171000 | state =  2 | led = 11000000
+time = 4251000 | state =  3 | led = 11100000
+time = 4331000 | state =  4 | led = 11110000
+time = 4411000 | state =  5 | led = 11111000
+time = 4491000 | state =  6 | led = 11111100
+time = 4571000 | state =  7 | led = 11111110
+time = 4651000 | state =  8 | led = 11111111
+time = 4731000 | state =  9 | led = 01111111
+time = 4811000 | state = 10 | led = 00111111
+time = 4891000 | state = 11 | led = 00011111
+time = 4971000 | state = 12 | led = 00001111
+time = 5051000 | state = 13 | led = 00000111
+time = 5131000 | state = 14 | led = 00000011
+time = 5211000 | state = 15 | led = 00000001
+time = 5291000 | state =  0 | led = 00000000
+time = 5371000 | state =  1 | led = 10000000
+time = 5451000 | state =  2 | led = 11000000
+time = 5531000 | state =  3 | led = 11100000
+time = 5611000 | state =  4 | led = 11110000
+time = 5691000 | state =  5 | led = 11111000
+time = 5771000 | state =  6 | led = 11111100
+time = 5851000 | state =  7 | led = 11111110
+time = 5931000 | state =  8 | led = 11111111
+# exit 0

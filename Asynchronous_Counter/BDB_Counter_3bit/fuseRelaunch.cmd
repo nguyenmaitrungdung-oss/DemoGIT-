@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -o "/home/ise/F8_code/VERILOG/Asynchronous_Counter/BDB_Counter_3bit/tb_ASYNC_COUNTER_3BIT_isim_beh.exe" -prj "/home/ise/F8_code/VERILOG/Asynchronous_Counter/BDB_Counter_3bit/tb_ASYNC_COUNTER_3BIT_beh.prj" "work.tb_ASYNC_COUNTER_3BIT" "work.glbl" 

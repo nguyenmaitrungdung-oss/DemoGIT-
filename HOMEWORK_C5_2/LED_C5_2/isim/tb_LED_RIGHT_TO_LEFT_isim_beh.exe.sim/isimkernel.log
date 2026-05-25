@@ -1,0 +1,10 @@
+Command line:
+   tb_LED_RIGHT_TO_LEFT_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51283
+
+Fri May 22 10:48:32 2026
+
+
+ Elaboration Time: 0.09 sec
